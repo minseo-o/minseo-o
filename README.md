@@ -1,7 +1,7 @@
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20!&fontSize=90)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo-o)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
