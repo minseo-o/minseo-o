@@ -1,6 +1,6 @@
 # Dillinger
 ## _The Last Markdown Editor, Ever_
-![header](https://capsule-render.vercel.app/api?type=wave&color=_#ABCDED&height=300&section=header&text=welcome%20!&fontSize=90&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=welcome%20!&fontSize=90&rotate=-30)
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
