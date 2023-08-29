@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&&logo=Node.js&logoColor=white">
 </p>
 <br><br>
-<h5 align="center">:computer: Tools :computer:</h5>
+<h5 align="center"> :computer: Tools :computer: </h5>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-squaree&logo=Eclipse&logoColor=white"> 
