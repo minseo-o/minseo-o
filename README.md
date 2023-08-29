@@ -5,7 +5,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PythonlogoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squaree&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squaree&logo=mysql&logoColor=white"></a>&nbsp 
 </p>
 <br><br><br>
 <h5 align="center" >:sparkles: More Learn :sparkles: </h5>
