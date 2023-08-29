@@ -1,19 +1,19 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=CFE2F3&text=Kim%20Minseo's%20Github%20&height=150&fontSize=60)
 <h5 align = "center">:wave: Welcome my github profile !</h5>
-<br><br><br>
+<br><br>
 <h5 align="center" >:sparkles: My Interest :sparkles: </h5>
 <p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PythonlogoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squaree&logo=mysql&logoColor=white"></a>&nbsp 
 </p>
-<br><br><br>
+<br><br>
 <h5 align="center" >:sparkles: More Learn :sparkles: </h5>
 <p align="center">
    <img src="https://img.shields.io/badge/PHP -777BB4?style=flat-square&logo=PHP&logoColor=black"></a>&nbsp 
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&&logo=Node.js&logoColor=white">
 </p>
-<br><br><br>
+<br><br>
 <h5 align="center">Tools</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> 
