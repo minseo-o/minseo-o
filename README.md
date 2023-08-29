@@ -8,13 +8,13 @@
    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squaree&logo=mysql&logoColor=white"></a>&nbsp 
 </p>
 <br><br>
-<h5 align="center" >:sparkles: More Learn :sparkles: </h5>
+<h5 align="center" >:pencil2: More Learn :pencil2: </h5>
 <p align="center">
    <img src="https://img.shields.io/badge/PHP -777BB4?style=flat-square&logo=PHP&logoColor=black"></a>&nbsp 
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&&logo=Node.js&logoColor=white">
 </p>
 <br><br>
-<h5 align="center">Tools</h5>
+<h5 align="center">:computer: Tools :computer:</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-squaree&logo=Eclipse&logoColor=white"> 
