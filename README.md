@@ -6,3 +6,4 @@
 <h5 align="center" >:sparkles: Language :sparkles: </h5>
 <p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
