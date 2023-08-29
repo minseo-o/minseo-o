@@ -18,6 +18,7 @@
    <img src="https://img.shields.io/badge/PHP -777BB4?style=flat-square&logo=PHP&logoColor=white"></a>&nbsp 
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"></a>&nbsp 
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"></a>&nbsp
    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&&logo=Node.js&logoColor=white">
 </p>
 <br><br>
