@@ -33,4 +33,3 @@
 </p>
 
 
-![minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo-o&show_icons=true&theme=dracula) 
